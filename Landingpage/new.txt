@@ -1,0 +1,73 @@
+
+
+			<section class="blog" id="overview">
+
+				<h2 class="h2 blog-title"> Overview</h2>
+
+
+			<div class="flow">
+				<ul class="blog-list">
+
+					<li>
+						<a href="#" class="blog-post">
+
+							<figure class="blog-banner">
+								<img src="./assets/images/wallet.jpg" alt="crypto">
+							</figure>
+						
+
+						</a>
+					</li>
+
+					<li>
+						<a href="#" class="blog-post">
+
+						
+							
+							<figure class="blog-banner">
+								<img src="./assets/images/crypto.jpg" alt="crypto">
+							</figure>
+
+							
+
+						</a>
+					</li>
+				
+
+					<li>
+						<div class="space">
+							<p>News:</p>
+							<h3>Be the first to know what is moving & shaking the market</h3>
+
+						</div>
+						
+						<div class="space">
+							<p>Customize News:</p>
+							<h3>Receive the latest news about you selected in the WatchList</h3>
+
+						</div>
+						<div class="space">
+							<p>Coin Performance:</p>
+							<h3>Follow the latest market trend in real time in one place</h3>
+
+						</div>
+						<div class="space">
+							<p>Charting</p>
+							<h3>setup technical indicators and conduct market analysis</h3>
+
+						</div>
+					</li>
+
+					<li>
+				
+
+				</ul>
+				<img src="./assets/images/wallet.jpg" alt="eyeoncoinbanner" class="banner-img">
+
+			</div>
+
+			</section>
+
+		</article>
+
+	</main>
